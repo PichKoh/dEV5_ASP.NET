@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "BtVWbWS2K4K2ekTazYiuzAQMCI4J5ABs727VVNZVLs4=",
+  "Source": "dEV5",
+  "BasePath": "_content/dEV5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dEV5.styles.css",
+      "SourceId": "dEV5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/dEV5",
+      "RelativePath": "dEV5.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dEV5.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dEV5.bundle.scp.css",
+      "SourceId": "dEV5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/dEV5",
+      "RelativePath": "dEV5.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dEV5.bundle.scp.css"
+    }
+  ]
+}

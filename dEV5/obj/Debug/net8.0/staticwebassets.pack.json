@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\katyl\\source\\repos\\dEV5\\dEV5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dEV5.bundle.scp.css",
+      "PackagePath": "staticwebassets\\dEV5.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dEV5.props",
+      "PackagePath": "build\\dEV5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.dEV5.props",
+      "PackagePath": "buildMultiTargeting\\dEV5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.dEV5.props",
+      "PackagePath": "buildTransitive\\dEV5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dEV5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dEV5.props" />
+</Project>
